@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: saif
+server:
+  port: 80
