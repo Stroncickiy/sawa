@@ -1,5 +1,8 @@
 spring:
   application:
-    name: saif
+    name: sawa
 server:
   port: 80
+app:
+  jwt:
+    secret: qwerty
